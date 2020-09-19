@@ -2,5 +2,31 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 1080px;
     height: 750px;
-    background-color: aqua;
+   
+}
+.header-topo{
+    width: 1080px;
+    height: 300px;
+}
+.img-header{
+    width: 50% ;
+    height: 130% vh;
+}
+.ul-header{
+    float: right;
+    
+}
+li{
+    display: inline-block;
+}
+a{
+   text-decoration: none;
+   text-transform: uppercase;
+   line-height: 1.5px;
+   color: black;
+   font-size: 18px;
+}
+a:hover{
+    color: blue;
+text-decoration: underline;
 }
