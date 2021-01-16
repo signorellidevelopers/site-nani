@@ -2,6 +2,7 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 1080px;
     height: 750px;
+    margin-bottom: 0;
    
 }
 .header-topo{
@@ -30,3 +31,7 @@ a:hover{
     color: blue;
 text-decoration: underline;
 }
+.rodape{
+    font-size: 1.5em;
+    text-align: center;
+ margin: 400px auto 0 auto;
