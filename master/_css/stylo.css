@@ -3,7 +3,18 @@ body{
     width: 1080px;
     height: 750px;
     margin-bottom: 0;
+    background-image: url(../_imagens/cesta\ coracao.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
    
+}
+.h1principal{
+    text-align: center;
+    font-size: 52px;
+    color: black;
+    text-shadow: 4px 4px 7px green ;
+    
 }
 .header-topo{
     width: 1080px;
